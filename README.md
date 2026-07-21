@@ -19,4 +19,12 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
