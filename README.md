@@ -6,6 +6,7 @@ LeetCode Problem Solutions
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -23,8 +24,10 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
