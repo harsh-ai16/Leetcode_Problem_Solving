@@ -25,9 +25,11 @@ LeetCode Problem Solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
