@@ -1,16 +1,17 @@
 class Solution(object):
     def rearrangeArray(self, nums):
         n=len(nums)
-        nl=[0]*n
-        j=0
-        k=1
-        for i in nums:
-            if i>0:
-                nl[j]=i
-                j+=2
+        nl=[]
+        positive=[]
+        negative=[]
+        for i in range(0,n):
+            if nums[i]>0:
+                positive.append(nums[i])
             else:
-                nl[k]=i
-                k+=2
-
+                negative.append(nums[i])
+        for i in range(0,n//2):
+            nl.append(positive[i])
+            nl.append(negative[i])
         return nl
+
         
