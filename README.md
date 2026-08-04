@@ -29,6 +29,7 @@ LeetCode Problem Solutions
 | [0001-two-sum](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0189-rotate-array) |
@@ -47,6 +48,7 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
 ## Binary Search
@@ -73,4 +75,8 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
