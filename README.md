@@ -31,6 +31,7 @@ LeetCode Problem Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
@@ -72,6 +73,7 @@ LeetCode Problem Solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -81,5 +83,6 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
