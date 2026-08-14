@@ -41,6 +41,7 @@ LeetCode Problem Solutions
 | [0268-missing-number](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ LeetCode Problem Solutions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
