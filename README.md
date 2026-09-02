@@ -56,6 +56,7 @@ LeetCode Problem Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -103,4 +104,8 @@ LeetCode Problem Solutions
 | [0048-rotate-image](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
