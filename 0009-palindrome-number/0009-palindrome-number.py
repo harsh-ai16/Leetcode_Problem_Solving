@@ -1,13 +1,11 @@
 class Solution(object):
     def isPalindrome(self, x):
-        temp=x
-        original=temp
-        n=len(str(temp))
-        result=0
-        if temp<0:
+        if x<0:
             return False
-        for i in range(n):
-            a=temp%10
-            result=result*10+a
-            temp=temp//10
-        return original==result        
+        temp=str(x)
+        reverse=temp[::-1]
+        if temp==reverse:
+            return True
+        else:
+            return False
+               
