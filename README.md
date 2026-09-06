@@ -20,6 +20,7 @@ LeetCode Problem Solutions
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -108,5 +109,6 @@ LeetCode Problem Solutions
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harsh-ai16/Leetcode_Problem_Solving/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
